@@ -11,7 +11,7 @@ git clone https://github.com/kishanpokal/Hotel-Management-System-PHP-JS-CSS-HTML
 Database Setup:
 
 Create a MySQL database.
-Import the database.sql file provided in the database directory to set up the database schema.
+Import the StaySimple.sql file provided in the database directory to set up the database schema.
 Configuration:
 
 Update config/db_config.php with your database credentials.
